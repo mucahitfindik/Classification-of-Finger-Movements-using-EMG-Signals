@@ -1,1 +1,1 @@
-# mucahitfindik-Classification-of-Finger-Movements-using-EMG-Signals
+# Classification-of-Finger-Movements-using-EMG-Signals
