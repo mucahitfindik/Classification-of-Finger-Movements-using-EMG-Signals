@@ -1,7 +1,7 @@
 #  Random Forest Classification of Finger Movements using Electromyogram (EMG) Signals
 ## Abstract
 The hands are one of the most frequently used organs in people's lives. However, people may suffer the loss of limbs due to work accidents, traffic accidents and health problem. For this reason, prosthetic hands are used to regain freedom of movement to disabled people. One of the fundamental problems in the development of prosthetic fingers is the recognition of finger movements using surface EMG data. This data is collected with an EMG sensor, which is used to get electrical signals created by muscles and nerves.
-We here consider automatic generation and selection of EMG signal features without relying on domain knowledge, unlike previous studies. We then develop a classification method based on random forests. Our results show that the proposed method achieves 97,5% accuracy to classify 10 classes. We also present a discussion of the features which are important in distinguishing finger movements.
+We here consider automatic generation and selection of EMG signal features without relying on domain knowledge, unlike previous studies. We then develop a classification method based on random forests. Our results show that the proposed method achieves %97,5 accuracy to classify 10 classes. We also present a discussion of the features which are important in distinguishing finger movements.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48488423/98931946-c2dd5180-24ef-11eb-9499-f5fa58e3a352.png" width="400" />
@@ -31,7 +31,7 @@ Each feature obtained with the "Tsfresh" library has a Gini Importance Value. Th
  
 ## Classification
 
-In the classification phase of the study, in order to accurately evaluate the accuracy of the model, % 20 of the dataset are reserved for testing and used % 80 of the dataset for training. After the splitting process, the model is created using the parameters obtained after parameter optimization. Classification using 33 features has achieved 97,5% accuracy. Figure 3 shows the accuracy rates for each movement separately. The reason for errors can be that these muscle groups are close to each other.
+In the classification phase of the study, in order to accurately evaluate the accuracy of the model, %20 of the dataset are reserved for testing and used %80 of the dataset for training. After the splitting process, the model is created using the parameters obtained after parameter optimization. Classification using 33 features has achieved %97,5 accuracy. Figure 3 shows the accuracy rates for each movement separately. The reason for errors can be that these muscle groups are close to each other.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48488423/98933369-94f90c80-24f1-11eb-9e6e-df60025269b5.PNG" width="400" />
