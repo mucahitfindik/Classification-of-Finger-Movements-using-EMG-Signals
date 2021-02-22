@@ -42,7 +42,7 @@ In the classification phase of the study, in order to accurately evaluate the ac
 </p>
 
 ### For more detailed information about this study, you can review our article named "Random Forest Classification of Finger Movements using Electromyogram (EMG) Signals". 
-DOI: 10.1109/SENSORS47125.2020.9278619
+DOI: 10.1109/SENSORS47125.2020.9278619  
 If you have problems accessing the article, you can contact me via mail.  
 Contact info: ceseymayilmaz@gmail.com
 
